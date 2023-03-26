@@ -4,7 +4,6 @@
 * f_pall - function that prints everything in the stack
 * @head: double head pointer to the stack
 * @counter: unused line count
-*
 * Return: nothing
 */
 void f_pall(stack_t **head, unsigned int counter)

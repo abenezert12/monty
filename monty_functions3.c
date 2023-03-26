@@ -4,7 +4,6 @@
 * f_pop - function that prints the top of the stack
 * @head: double head pointer to the stack
 * @counter: line count
-*
 * Return: nothing
 */
 void f_pop(stack_t **head, unsigned int counter)
